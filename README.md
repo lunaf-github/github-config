@@ -41,7 +41,7 @@
   <summary>💻 Github Profile Stats</summary>
   <br/>
 
-[![FernandoLuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaf-githubh&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
+[![FernandoLuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaf-github&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaf-github&layout=compact&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
 
