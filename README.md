@@ -1,4 +1,3 @@
-<h2>Hello there, I'm Fernando!</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+profile!;)](https://git.io/typing-svg)
 
