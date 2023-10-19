@@ -37,14 +37,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-<details>
-  <summary>💻 Github Profile Stats</summary>
-  <br/>
 
-[![FernandoLuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaf-github&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaf-github&layout=compact&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
 
 [![Fernando's github activity graph](https://activity-graph.herokuapp.com/graph?username=markcharlessmith&theme=react-dark)](https://github.com/lunaf-github/github-readme-activity-graph)
-
-</details>
