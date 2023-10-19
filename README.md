@@ -42,4 +42,3 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaf-github&layout=compact&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
 
-[![Fernando's github activity graph](https://activity-graph.herokuapp.com/graph?username=lunaf-github&theme=react-dark)](https://github.com/lunaf-github/github-readme-activity-graph)
