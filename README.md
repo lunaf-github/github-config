@@ -38,5 +38,5 @@
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaf-github&layout=compact&theme=dark)](https://github.com/lunaf-github/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunaf-github&layout=compact&theme=light)](https://github.com/lunaf-github/github-readme-stats)
 
